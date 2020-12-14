@@ -14,3 +14,5 @@
 -	Khách hàng có thể hủy đặt phòng (miên phí) nếu hủy trước ngày đến. Nếu khách hàng hủy sau ngày đặt thì khách hàng bị lưu vào danh sách đen và có thể bị từ chối đặt phòng trong các lần tiếp theo.
 # Business Objectives
 - Đáp ứng các yêu cầu được đưa ra
+- Hoàn thành và chạy thử các tính năng và bảo mật của hệ thống trong 3 tháng
+- Giảm thiểu mức tổn hại của hệ thống 
